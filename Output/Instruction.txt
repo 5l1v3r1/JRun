@@ -1,0 +1,2 @@
+
+This Output section of JRun contains screenshots of JRun in operation.
