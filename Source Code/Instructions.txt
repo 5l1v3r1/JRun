@@ -1,0 +1,3 @@
+
+This Program was developed for windows only. Compile using mingw gcc compiler for best experiance 
+( it is default C compiler in Codeblocks and Dev C++ )
